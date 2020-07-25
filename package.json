@@ -1,0 +1,32 @@
+{
+  "name": "@jcvegan/boot-commerce",
+  "version": "1.0.0",
+  "description": "Yet another theme for an e-commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcvegan/e-commerce-boostrap.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "e-commerce",
+    "sass",
+    "webpack"
+  ],
+  "author": "Juan Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcvegan/e-commerce-boostrap/issues"
+  },
+  "homepage": "https://github.com/jcvegan/e-commerce-boostrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
